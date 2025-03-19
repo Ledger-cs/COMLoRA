@@ -1,0 +1,6 @@
+name: nlu
+channels:
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/msys2/
+prefix: C:\Users\shaoc\anaconda3\envs\nlu
